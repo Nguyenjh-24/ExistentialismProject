@@ -1,0 +1,7 @@
+{
+  "/(landingpage)/page": "app/(landingpage)/page.js",
+  "/(gamepage)/(routes)/end/page": "app/(gamepage)/(routes)/end/page.js",
+  "/(gamepage)/(routes)/checkpointOne/page": "app/(gamepage)/(routes)/checkpointOne/page.js",
+  "/(gamepage)/(routes)/start/page": "app/(gamepage)/(routes)/start/page.js",
+  "/(gamepage)/(routes)/start/choiceOne/page": "app/(gamepage)/(routes)/start/choiceOne/page.js"
+}
