@@ -1,0 +1,171 @@
+{
+  "pages": {
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/(gamepage)/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(gamepage)/layout.css",
+      "static/chunks/app/(gamepage)/layout.js"
+    ],
+    "/(gamepage)/(routes)/start/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(gamepage)/(routes)/start/page.js"
+    ],
+    "/(gamepage)/(routes)/checkpointOne/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(gamepage)/(routes)/checkpointOne/page.js"
+    ],
+    "/(landingpage)/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(landingpage)/page.js"
+    ],
+    "/(gamepage)/(routes)/start/choiceOne/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(gamepage)/(routes)/start/choiceOne/page.js"
+    ],
+    "/(gamepage)/(routes)/checkpointTwo/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(gamepage)/(routes)/checkpointTwo/page.js"
+    ],
+    "/(gamepage)/(routes)/end/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(gamepage)/(routes)/end/page.js"
+    ],
+    "/(gamepage)/(routes)/start/choiceTwo/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(gamepage)/(routes)/start/choiceTwo/page.js"
+    ],
+    "/(gamepage)/(routes)/checkpointOne/choiceOne/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(gamepage)/(routes)/checkpointOne/choiceOne/page.js"
+    ],
+    "/(gamepage)/(routes)/checkpointOne/choiceTwo/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(gamepage)/(routes)/checkpointOne/choiceTwo/page.js"
+    ],
+    "/(gamepage)/(routes)/checkpointOne/choiceThree/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(gamepage)/(routes)/checkpointOne/choiceThree/page.js"
+    ],
+    "/(gamepage)/(routes)/checkpointOne/choiceFour/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(gamepage)/(routes)/checkpointOne/choiceFour/page.js"
+    ],
+    "/(gamepage)/(routes)/checkpointTwo/choiceOne/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(gamepage)/(routes)/checkpointTwo/choiceOne/page.js"
+    ],
+    "/(gamepage)/(routes)/checkpointThree/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(gamepage)/(routes)/checkpointThree/page.js"
+    ],
+    "/(gamepage)/(routes)/checkpointTwo/choiceTwo/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(gamepage)/(routes)/checkpointTwo/choiceTwo/page.js"
+    ],
+    "/(gamepage)/(routes)/checkpointThree/choiceOne/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(gamepage)/(routes)/checkpointThree/choiceOne/page.js"
+    ],
+    "/(gamepage)/(routes)/checkpointFour/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(gamepage)/(routes)/checkpointFour/page.js"
+    ],
+    "/(gamepage)/(routes)/checkpointThree/choiceTwo/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(gamepage)/(routes)/checkpointThree/choiceTwo/page.js"
+    ],
+    "/(gamepage)/(routes)/checkpointThree/choiceThree/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(gamepage)/(routes)/checkpointThree/choiceThree/page.js"
+    ],
+    "/(gamepage)/(routes)/checkpointTwo/choiceFour/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(gamepage)/(routes)/checkpointTwo/choiceFour/page.js"
+    ],
+    "/(gamepage)/(routes)/checkpointFour/choiceOne/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(gamepage)/(routes)/checkpointFour/choiceOne/page.js"
+    ],
+    "/(gamepage)/(routes)/checkpointFive/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(gamepage)/(routes)/checkpointFive/page.js"
+    ],
+    "/(gamepage)/(routes)/checkpointFour/choiceTwo/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(gamepage)/(routes)/checkpointFour/choiceTwo/page.js"
+    ],
+    "/(gamepage)/(routes)/checkpointFour/choiceThree/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(gamepage)/(routes)/checkpointFour/choiceThree/page.js"
+    ],
+    "/(gamepage)/(routes)/checkpointFive/choiceOne/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(gamepage)/(routes)/checkpointFive/choiceOne/page.js"
+    ],
+    "/(gamepage)/(routes)/checkpointSix/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(gamepage)/(routes)/checkpointSix/page.js"
+    ],
+    "/(gamepage)/(routes)/checkpointFive/choiceTwo/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(gamepage)/(routes)/checkpointFive/choiceTwo/page.js"
+    ],
+    "/(gamepage)/(routes)/checkpointFive/choiceThree/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(gamepage)/(routes)/checkpointFive/choiceThree/page.js"
+    ],
+    "/(gamepage)/(routes)/checkpointFive/choiceFour/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(gamepage)/(routes)/checkpointFive/choiceFour/page.js"
+    ],
+    "/(gamepage)/(routes)/checkpointSix/choiceThree/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(gamepage)/(routes)/checkpointSix/choiceThree/page.js"
+    ],
+    "/(gamepage)/(routes)/checkpointSix/choiceTwo/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(gamepage)/(routes)/checkpointSix/choiceTwo/page.js"
+    ],
+    "/(gamepage)/(routes)/checkpointSix/choiceOne/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(gamepage)/(routes)/checkpointSix/choiceOne/page.js"
+    ]
+  }
+}
